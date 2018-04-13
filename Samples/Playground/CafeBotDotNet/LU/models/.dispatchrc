@@ -1,0 +1,23 @@
+{
+  "name": "CafeBotDispatchApp",
+  "luisAuthoringKey": "be30825b782843dcbbe520ac5338f567",
+  "luisAuthoringRegion": "westus",
+  "services": [
+    {
+      "appId": "798f44a8-fa5a-46bc-8376-05e7f70dd996",
+      "authoringKey": "be30825b782843dcbbe520ac5338f567",
+      "subscriptionKey": "be30825b782843dcbbe520ac5338f567",
+      "version": "0.1",
+      "type": "luis",
+      "name": "CafeBotSample",
+      "id": "798f44a8-fa5a-46bc-8376-05e7f70dd996"
+    },
+    {
+      "kbid": "13cfe15a-e7f4-45d5-828d-8659238eaaa6",
+      "subscriptionKey": "d534abd71a0d438d95d5a001025ee074",
+      "type": "qna",
+      "name": "CafeBotSampleQnA",
+      "id": "13cfe15a-e7f4-45d5-828d-8659238eaaa6"
+    }
+  ]
+}

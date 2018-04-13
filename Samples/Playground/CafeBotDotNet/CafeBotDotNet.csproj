@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AdaptiveCards" Version="1.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+    <PackageReference Include="Microsoft.Bot.Builder.Ai.LUIS" Version="4.0.0-alpha2018041201" />
+    <PackageReference Include="Microsoft.Bot.Builder.Ai.QnA" Version="4.0.0-alpha2018041201" />
+    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.0.0-alpha2018041201" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\default.html" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="start &quot;My Process&quot; /D $(ProjectDir) /WAIT postbuild.bat $(ProjectName) westus be30825b782843dcbbe520ac5338f567" />
+  </Target>
+
+</Project>
