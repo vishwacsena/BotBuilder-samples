@@ -1,0 +1,11 @@
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet.deps.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet.runtimeconfig.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet.runtimeconfig.dev.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet.dll
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet.pdb
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet.csprojResolveAssemblyReference.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet.csproj.CoreCompileInputs.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet.AssemblyInfoInputs.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet.AssemblyInfo.cs
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet.dll
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_LUIS - entities\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet.pdb

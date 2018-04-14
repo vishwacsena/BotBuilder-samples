@@ -1,0 +1,10 @@
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-tools.deps.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-tools.runtimeconfig.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-tools.runtimeconfig.dev.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-tools.dll
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-tools.pdb
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-tools.csproj.CoreCompileInputs.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-tools.AssemblyInfoInputs.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-tools.AssemblyInfo.cs
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-tools.dll
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 6 _ Tools\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-tools.pdb

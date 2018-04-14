@@ -1,0 +1,34 @@
+{
+  "qnaPairs": [
+    {
+      "answer": "\r\nWe have Cafe locations in Redmond, Seattle, Renton and Bellevue",
+      "question": "What are your locations"
+    },
+    {
+      "answer": "\r\nJoshua Newmann is the CEO of Contoso Cafe",
+      "question": "who is your CEO"
+    },
+    {
+      "answer": "\r\nJoshua Newmann is the CEO of Contoso Cafe",
+      "question": "who owns contoso cafe"
+    },
+    {
+      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "question": "Are you hiring"
+    },
+    {
+      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "question": "Do you have job openings?"
+    },
+    {
+      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "question": "are you looking for a barrista"
+    },
+    {
+      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "question": "can i come work for contoso cafe?"
+    }
+  ],
+  "urls": [],
+  "name": "CafeBot-QnA"
+}

@@ -1,0 +1,11 @@
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-QnA.deps.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-QnA.runtimeconfig.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-QnA.runtimeconfig.dev.json
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-QnA.dll
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-QnA.pdb
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-QnA.csprojResolveAssemblyReference.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-QnA.csproj.CoreCompileInputs.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-QnA.AssemblyInfoInputs.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-QnA.AssemblyInfo.cs
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-QnA.dll
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet_QnA\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-QnA.pdb
