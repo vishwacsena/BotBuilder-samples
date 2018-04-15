@@ -1,0 +1,9 @@
+{
+  "botId": "",
+  "botName": "CafeBot - LUIS",
+  "botUrl": "http://localhost:61997/api/messages",
+  "id": "734136b0-405d-11e8-a42e-c5c07c66c9c2",
+  "locale": "",
+  "msaAppId": "",
+  "msaPassword": ""
+}

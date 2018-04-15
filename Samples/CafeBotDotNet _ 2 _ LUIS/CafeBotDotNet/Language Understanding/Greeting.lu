@@ -1,7 +1,6 @@
 ﻿
-// Greeting intent and example utterances
-
-#Greeting
+// Greeting intent
+# Greeting
 Hello
 Hi
 Hello bot

@@ -13017,6 +13017,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet _ 5 _ Prompts\\CafeBotDotNet\\CafeBotDotNet-Prompts.csproj",
       "projectName": "CafeBotDotNet-Prompts",

@@ -1,0 +1,38 @@
+[
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "82c45a8d-5d53-43ca-9ad1-c98354378049",
+    "recipient": {
+      "id": "efc84140-5d93-3a6f-bba5-2850318ac663",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "f1c8134a-db2f-3140-965c-9f890ed90a8c",
+      "name": "vishwac"
+    },
+    "text": "hi",
+    "timestamp": "2018-04-15T03:04:32.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "3148b738-b5ca-4121-83cb-6ef988d25b60",
+    "recipient": {
+      "id": "f1c8134a-db2f-3140-965c-9f890ed90a8c",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "efc84140-5d93-3a6f-bba5-2850318ac663",
+      "name": "cafebot"
+    },
+    "text": "Hello, I'm the contoso cafe bot. How can I help you?\n",
+    "timestamp": "2018-04-15T03:04:34.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

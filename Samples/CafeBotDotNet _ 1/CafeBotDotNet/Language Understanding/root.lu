@@ -1,7 +1,0 @@
-﻿
-// references to other lu files
-
-#ref('Greeting.lu')
-#ref('CommPreference.lu')
-#ref('WhoAreYou.lu')
-#ref('QnA.lu')

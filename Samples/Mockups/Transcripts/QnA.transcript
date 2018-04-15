@@ -1,0 +1,110 @@
+[
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "e7f36660-bf98-4a38-ad3e-ccf1dabe129e",
+    "recipient": {
+      "id": "2ea91776-0872-3648-9f6b-b55aaf7b44d9",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "ac4891be-27ae-3055-a948-16f189910a67",
+      "name": "vishwac"
+    },
+    "text": "What are your locations",
+    "timestamp": "2018-04-15T02:48:15.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "6de9dc11-7998-4ef4-8099-ab5b883fb7d9",
+    "recipient": {
+      "id": "ac4891be-27ae-3055-a948-16f189910a67",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "2ea91776-0872-3648-9f6b-b55aaf7b44d9",
+      "name": "cafebot"
+    },
+    "text": "We have Cafe locations in Redmond, Seattle, Renton and Bellevue",
+    "timestamp": "2018-04-15T02:48:17.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "12366910-4369-4915-bba2-a0cb34b4b1b8",
+    "recipient": {
+      "id": "2ea91776-0872-3648-9f6b-b55aaf7b44d9",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "ac4891be-27ae-3055-a948-16f189910a67",
+      "name": "vishwac"
+    },
+    "text": "who is your CEO",
+    "timestamp": "2018-04-15T02:48:19.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "41f0e58b-ece0-4732-8227-b81e6e750eb9",
+    "recipient": {
+      "id": "ac4891be-27ae-3055-a948-16f189910a67",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "2ea91776-0872-3648-9f6b-b55aaf7b44d9",
+      "name": "cafebot"
+    },
+    "text": "Joshua Newmann is the CEO of Contoso Cafe",
+    "timestamp": "2018-04-15T02:48:21.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "8cbe663b-2bda-4773-a4e4-9f0011bf9ee1",
+    "recipient": {
+      "id": "2ea91776-0872-3648-9f6b-b55aaf7b44d9",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "ac4891be-27ae-3055-a948-16f189910a67",
+      "name": "vishwac"
+    },
+    "text": "Are you hiring",
+    "timestamp": "2018-04-15T02:48:23.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "e8fad7e3-d3fb-4b06-a8f8-13f66ea63259",
+    "recipient": {
+      "id": "ac4891be-27ae-3055-a948-16f189910a67",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "2ea91776-0872-3648-9f6b-b55aaf7b44d9",
+      "name": "cafebot"
+    },
+    "text": "You bet, we always are. Please visit http://contosocafe.com/careers\n",
+    "timestamp": "2018-04-15T02:48:25.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

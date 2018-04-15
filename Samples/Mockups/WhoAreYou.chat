@@ -4,4 +4,5 @@ bot=cafebot
 user: Who are you?
 bot: Hi, I'm the Contoso Cafe bot. What's your name?
 user: I'm vishwac
-bot: Hello Vishwac. Nice to meet you!
+bot: [Typing][Delay:3000]
+Hello Vishwac. Nice to meet you!

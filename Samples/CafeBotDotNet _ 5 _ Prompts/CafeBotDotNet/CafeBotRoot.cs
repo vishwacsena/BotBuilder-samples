@@ -91,6 +91,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                 if(result.Succeeded())
                 {
                     textData.Value = result.Value;
+                    textData.Prompted = false;
                     await context.SendActivity($"Hello {textData.Value}. Nice to meet you!");
                 }
                 else

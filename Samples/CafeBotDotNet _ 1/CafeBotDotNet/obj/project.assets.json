@@ -12982,12 +12982,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet\\CafeBotDotNet\\CafeBotDotNet-Basic.csproj",
+      "projectUniqueName": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet _ 1\\CafeBotDotNet\\CafeBotDotNet-Basic.csproj",
       "projectName": "CafeBotDotNet-Basic",
-      "projectPath": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet\\CafeBotDotNet\\CafeBotDotNet-Basic.csproj",
+      "projectPath": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet _ 1\\CafeBotDotNet\\CafeBotDotNet-Basic.csproj",
       "packagesPath": "C:\\Users\\vkannan\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet\\CafeBotDotNet\\obj\\",
+      "outputPath": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet _ 1\\CafeBotDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

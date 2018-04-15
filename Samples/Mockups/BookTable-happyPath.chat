@@ -14,4 +14,5 @@ user: 3
 bot: Ok. Should I go ahead and book a table for 3 at seattle for tomorrow at 3PM? 
 bot: [Attachment:cards/tableConfirmation.json]
 user: yes
-bot: Your table is booked. Reference number: #K89HG38SZ
+bot: [Typing][Delay:3000]
+Your table is booked. Reference number: #K89HG38SZ
