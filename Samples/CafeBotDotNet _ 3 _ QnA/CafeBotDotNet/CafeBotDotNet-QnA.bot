@@ -1,0 +1,15 @@
+{
+    "name": "CafeBotDotNet-QnA",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:61990/api/messages",
+            "id": "3064a520-40e9-11e8-a05b-95653e738f13",
+            "name": "http://localhost:61990/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}

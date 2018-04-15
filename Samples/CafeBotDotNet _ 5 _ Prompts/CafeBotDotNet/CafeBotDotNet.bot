@@ -1,0 +1,15 @@
+{
+    "name": "CafeBotDotNet",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:61980/api/messages",
+            "id": "4d829040-40e9-11e8-a05b-95653e738f13",
+            "name": "http://localhost:61980/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}
