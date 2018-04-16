@@ -7,7 +7,7 @@
             "appId": "",
             "appPassword": "",
             "endpoint": "http://localhost:61980/api/messages",
-            "id": "4d829040-40e9-11e8-a05b-95653e738f13",
+            "id": "d138b6f0-410f-11e8-a111-2f6a11d7ddc9",
             "name": "http://localhost:61980/api/messages",
             "type": "endpoint"
         }

@@ -31,7 +31,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
             services.AddBot<HelloBot>(options =>
             {
                 options.CredentialProvider = new ConfigurationCredentialProvider(Configuration);
-                string luisModelId = "798f44a8-fa5a-46bc-8376-05e7f70dd996";
+                string luisModelId = "fd66bde5-c875-40e6-960a-910b0f4d9b01";
                 string luisSubscriptionKey = "be30825b782843dcbbe520ac5338f567";
                 Uri luisUri = new Uri("https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/");
 

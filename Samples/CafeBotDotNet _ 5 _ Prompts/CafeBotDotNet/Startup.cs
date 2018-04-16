@@ -37,17 +37,11 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
 
                 options.Middleware.Add(new LuisRecognizerMiddleware(
                     new LuisModel(
-                        "798f44a8-fa5a-46bc-8376-05e7f70dd996",
+                        "fd66bde5-c875-40e6-960a-910b0f4d9b01",
                         "be30825b782843dcbbe520ac5338f567",
                         new Uri("https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/")), luisOptions: luisOptions));
 
-                options.Middleware.Add(new QnAMakerMiddleware(
-                                new QnAMakerMiddlewareOptions()
-                                {
-                                    SubscriptionKey = "d534abd71a0d438d95d5a001025ee074",
-                                    KnowledgeBaseId = "16a219d7-5d89-4fcb-b013-ab37a6304a32",
-                                    EndActivityRoutingOnAnswer = true
-                                }));
+                
 
             });
         }

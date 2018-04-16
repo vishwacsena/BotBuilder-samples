@@ -2,10 +2,9 @@ C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\bi
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.runtimeconfig.json
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.runtimeconfig.dev.json
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.dll
-C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.csprojResolveAssemblyReference.cache
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.pdb
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.csproj.CoreCompileInputs.cache
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.AssemblyInfoInputs.cache
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.AssemblyInfo.cs
-C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\bin\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.pdb
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.dll
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.pdb

@@ -51,7 +51,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                                     }
                                 }
                                 break;
-                            case "Who are you intent":
+                            case "whoAreYouIntent":
                                 GetTextUsingPrompt(context);
                                 break;
                             default:
