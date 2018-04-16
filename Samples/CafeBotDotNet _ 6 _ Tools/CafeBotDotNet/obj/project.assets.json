@@ -12982,6 +12982,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet _ 6 _ Tools\\CafeBotDotNet\\CafeBotDotNet-tools.csproj",
       "projectName": "CafeBotDotNet-tools",

@@ -1,5 +1,5 @@
 {
-    "name": "CafeBotDotNet-Basic",
+    "name": "CafeBot-Tools",
     "description": "",
     "secretKey": "",
     "services": [
@@ -7,7 +7,7 @@
             "appId": "",
             "appPassword": "",
             "endpoint": "http://localhost:3978/api/messages",
-            "id": "7200de50-40e8-11e8-a05b-95653e738f13",
+            "id": "7c98ec60-4186-11e8-acde-17ededee9d25",
             "name": "http://localhost:3978/api/messages",
             "type": "endpoint"
         }

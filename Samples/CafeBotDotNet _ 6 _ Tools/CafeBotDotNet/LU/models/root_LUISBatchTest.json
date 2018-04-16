@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Hello",
+    "intent": "Greeting",
+    "entities": []
+  },
+  {
+    "text": "Hi",
+    "intent": "Greeting",
+    "entities": []
+  },
+  {
+    "text": "Hello bot",
+    "intent": "Greeting",
+    "entities": []
+  },
+  {
+    "text": "hiya",
+    "intent": "Greeting",
+    "entities": []
+  },
+  {
+    "text": "hi bot",
+    "intent": "Greeting",
+    "entities": []
+  },
+  {
+    "text": "Who are you?",
+    "intent": "Who are you intent",
+    "entities": []
+  },
+  {
+    "text": "What is your name?",
+    "intent": "Who are you intent",
+    "entities": []
+  },
+  {
+    "text": "how should I address you?",
+    "intent": "Who are you intent",
+    "entities": []
+  },
+  {
+    "text": "What's your name?",
+    "intent": "Who are you intent",
+    "entities": []
+  }
+]

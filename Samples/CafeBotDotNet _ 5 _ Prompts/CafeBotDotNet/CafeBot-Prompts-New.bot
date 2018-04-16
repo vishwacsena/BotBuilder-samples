@@ -1,0 +1,15 @@
+{
+    "name": "CafeBot-Prompts-New",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:61980/api/messages",
+            "id": "f4b10da0-4185-11e8-acde-17ededee9d25",
+            "name": "http://localhost:61980/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}

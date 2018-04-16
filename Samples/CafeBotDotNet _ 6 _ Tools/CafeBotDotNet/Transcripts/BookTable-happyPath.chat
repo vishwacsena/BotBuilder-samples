@@ -1,0 +1,252 @@
+[
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "bbe44a96-7487-42bb-8374-1a06de0ea7e9",
+    "recipient": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "text": "book a table",
+    "timestamp": "2018-04-16T14:58:56.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "ca8fb25e-58ff-44bb-83e0-861dd83707c4",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "Did you have a location in mind?",
+    "timestamp": "2018-04-16T14:58:58.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "83e31ed9-eb11-4d18-8edc-fb8471f655a1",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "[Attachment:cards/AskForLocation.json:adaptivecard]",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "33fd3ca9-ade9-4e3e-b628-b4d0c2f7d564",
+    "recipient": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "text": "How about seattle?",
+    "timestamp": "2018-04-16T14:59:00.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "6198cbe6-7998-449b-91d2-a80dc4757748",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "Did you have a date in mind?",
+    "timestamp": "2018-04-16T14:59:02.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "6d4a4fab-4553-4246-a6d4-6659b448483a",
+    "recipient": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "text": "tomorrow",
+    "timestamp": "2018-04-16T14:59:04.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "84e24731-f214-49f5-b1fd-ce397da449b7",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "What time?",
+    "timestamp": "2018-04-16T14:59:06.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "661afa1d-b41d-43de-b486-0c25acfc8934",
+    "recipient": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "text": "3PM",
+    "timestamp": "2018-04-16T14:59:08.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "70304e36-47ea-4a50-bf63-1c37546eaef1",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "How many guests?",
+    "timestamp": "2018-04-16T14:59:10.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "3de17444-9f6d-44f9-b532-16deddcdf403",
+    "recipient": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "text": "3",
+    "timestamp": "2018-04-16T14:59:12.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "f08dd4a5-eeb4-4f8f-a3af-f4607a2c3379",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "Ok. Should I go ahead and book a table for 3 at seattle for tomorrow at 3PM?",
+    "timestamp": "2018-04-16T14:59:14.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "27110bd9-fe71-4d22-bddd-adc4efe68a44",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "[Attachment:cards/tableConfirmation.json]",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "2442af95-5383-4ee1-9be6-934fd6ce4068",
+    "recipient": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "from": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "text": "yes",
+    "timestamp": "2018-04-16T14:59:16.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "dc05a1e0-cb15-47aa-aebe-c52efb6da872",
+    "recipient": {
+      "id": "93ca2760-7a98-3c32-a674-41e17cb1ec87",
+      "name": "vishwac"
+    },
+    "from": {
+      "id": "14c2805f-0f39-3aa0-959c-2dd40854e80d",
+      "name": "cafebot"
+    },
+    "text": "Your table is booked. Reference number: #K89HG38SZ\n",
+    "timestamp": "2018-04-16T14:59:18.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]
