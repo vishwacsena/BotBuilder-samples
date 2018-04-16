@@ -1,0 +1,15 @@
+{
+    "name": "My bot-qna",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:61990/api/messages",
+            "id": "a7176160-4195-11e8-acde-17ededee9d25",
+            "name": "http://localhost:61990/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}

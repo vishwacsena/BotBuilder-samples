@@ -43,5 +43,25 @@
     "text": "What's your name?",
     "intent": "Who are you intent",
     "entities": []
+  },
+  {
+    "text": "I prefer to get text updates",
+    "intent": "Communication preference",
+    "entities": []
+  },
+  {
+    "text": "send me a text message to get in touch with me",
+    "intent": "Communication preference",
+    "entities": []
+  },
+  {
+    "text": "set my communication preference to phone call",
+    "intent": "Communication preference",
+    "entities": []
+  },
+  {
+    "text": "I prefer to receive phone call",
+    "intent": "Communication preference",
+    "entities": []
   }
 ]

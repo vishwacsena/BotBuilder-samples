@@ -27,7 +27,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                             case "Greeting":
                                 await context.SendActivity($"Hello, I'm the contoso cafe bot. How can I help you?");
                                 break;
-                            /*case "Communication preference":
+                            case "Communication preference":
                                 // get entities
                                 if (luisResult.Entities.Count > 0)
                                 {
@@ -51,7 +51,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                                     }
 
                                 }
-                                break;*/
+                                break;
                             default:
                                 await context.SendActivity($"Hello world.");
                                 break;

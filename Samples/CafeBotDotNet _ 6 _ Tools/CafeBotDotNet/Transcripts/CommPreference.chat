@@ -3,17 +3,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "e12ae238-73a5-4c29-8551-f9d45e87e793",
+    "id": "86c8e196-daba-4b98-87b3-eb35d5046a80",
     "recipient": {
-      "id": "4e70af1c-1077-31f7-b22e-a952e7475a78",
+      "id": "cde45c26-2daa-3186-ad97-5e6b03a49e27",
       "name": "cafebot"
     },
     "from": {
-      "id": "37b6e235-11a8-34c5-9851-f1a26933b2b8",
+      "id": "4ca44cae-16c2-3c7d-9edc-aa6585be524b",
       "name": "vishwac"
     },
     "text": "I prefer to receive phone calls",
-    "timestamp": "2018-04-16T14:58:57.000Z",
+    "timestamp": "2018-04-16T20:21:19.000Z",
     "type": "message",
     "channelId": "chatdown"
   },
@@ -21,17 +21,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "c5bc7e8e-d588-4c31-af39-cd27fa1ac10a",
+    "id": "d288a7f7-e27a-4913-8bf3-f62ce47d4f5f",
     "recipient": {
-      "id": "37b6e235-11a8-34c5-9851-f1a26933b2b8",
+      "id": "4ca44cae-16c2-3c7d-9edc-aa6585be524b",
       "name": "vishwac"
     },
     "from": {
-      "id": "4e70af1c-1077-31f7-b22e-a952e7475a78",
+      "id": "cde45c26-2daa-3186-ad97-5e6b03a49e27",
       "name": "cafebot"
     },
     "text": "Ok, I'll remember that.\n",
-    "timestamp": "2018-04-16T14:58:59.000Z",
+    "timestamp": "2018-04-16T20:21:21.000Z",
     "type": "message",
     "channelId": "chatdown"
   }

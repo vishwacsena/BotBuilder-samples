@@ -1,0 +1,15 @@
+{
+    "name": "My bot-2",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:61997/api/messages",
+            "id": "61269090-4195-11e8-acde-17ededee9d25",
+            "name": "http://localhost:61997/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}

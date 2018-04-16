@@ -1,0 +1,15 @@
+{
+    "name": "My bot-prompts",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:61980/api/messages",
+            "id": "f625b900-4195-11e8-acde-17ededee9d25",
+            "name": "http://localhost:61980/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}

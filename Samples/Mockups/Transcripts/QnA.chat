@@ -3,17 +3,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "9a55f682-d98b-400d-b25e-213e28ac8678",
+    "id": "c6d839c6-6685-481c-8a93-b3dacdc508c0",
     "recipient": {
-      "id": "048d1c6c-828c-3906-91a8-223bec3260d2",
+      "id": "af52cf7a-ad9d-3f78-a45d-f625da63a6df",
       "name": "cafebot"
     },
     "from": {
-      "id": "a42108e5-2d5b-315f-9064-006aac9d16b8",
+      "id": "0fc1f913-70ce-3250-a784-3949f6460b30",
       "name": "vishwac"
     },
     "text": "What are your locations",
-    "timestamp": "2018-04-16T14:46:52.000Z",
+    "timestamp": "2018-04-16T16:29:38.000Z",
     "type": "message",
     "channelId": "chatdown"
   },
@@ -21,17 +21,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "d3aa295f-1e51-4d71-a0b0-654e238f0dd1",
+    "id": "393c4e6f-c555-4762-9bd1-d8fcc71cff82",
     "recipient": {
-      "id": "a42108e5-2d5b-315f-9064-006aac9d16b8",
+      "id": "0fc1f913-70ce-3250-a784-3949f6460b30",
       "name": "vishwac"
     },
     "from": {
-      "id": "048d1c6c-828c-3906-91a8-223bec3260d2",
+      "id": "af52cf7a-ad9d-3f78-a45d-f625da63a6df",
       "name": "cafebot"
     },
     "text": "We have Cafe locations in Redmond, Seattle, Renton and Bellevue",
-    "timestamp": "2018-04-16T14:46:54.000Z",
+    "timestamp": "2018-04-16T16:29:40.000Z",
     "type": "message",
     "channelId": "chatdown"
   },
@@ -39,17 +39,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "81f0ed5a-4c8b-41e2-b3ff-c3d9a5ee4fef",
+    "id": "254d34d5-ef28-4911-a5c0-066eefa7eca8",
     "recipient": {
-      "id": "048d1c6c-828c-3906-91a8-223bec3260d2",
+      "id": "af52cf7a-ad9d-3f78-a45d-f625da63a6df",
       "name": "cafebot"
     },
     "from": {
-      "id": "a42108e5-2d5b-315f-9064-006aac9d16b8",
+      "id": "0fc1f913-70ce-3250-a784-3949f6460b30",
       "name": "vishwac"
     },
     "text": "who is your CEO",
-    "timestamp": "2018-04-16T14:46:56.000Z",
+    "timestamp": "2018-04-16T16:29:42.000Z",
     "type": "message",
     "channelId": "chatdown"
   },
@@ -57,17 +57,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "1af2e7fe-cc5c-4602-a8d1-cf05b9da99c0",
+    "id": "b29e118f-726a-49b2-9ed1-fab830b54126",
     "recipient": {
-      "id": "a42108e5-2d5b-315f-9064-006aac9d16b8",
+      "id": "0fc1f913-70ce-3250-a784-3949f6460b30",
       "name": "vishwac"
     },
     "from": {
-      "id": "048d1c6c-828c-3906-91a8-223bec3260d2",
+      "id": "af52cf7a-ad9d-3f78-a45d-f625da63a6df",
       "name": "cafebot"
     },
     "text": "Joshua Newmann is the CEO of Contoso Cafe",
-    "timestamp": "2018-04-16T14:46:58.000Z",
+    "timestamp": "2018-04-16T16:29:44.000Z",
     "type": "message",
     "channelId": "chatdown"
   },
@@ -75,17 +75,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "27986437-bb4a-49a0-a9a7-83e386e5c320",
+    "id": "22c2d144-487a-4ba8-b599-3373bf92adb1",
     "recipient": {
-      "id": "048d1c6c-828c-3906-91a8-223bec3260d2",
+      "id": "af52cf7a-ad9d-3f78-a45d-f625da63a6df",
       "name": "cafebot"
     },
     "from": {
-      "id": "a42108e5-2d5b-315f-9064-006aac9d16b8",
+      "id": "0fc1f913-70ce-3250-a784-3949f6460b30",
       "name": "vishwac"
     },
     "text": "Are you hiring",
-    "timestamp": "2018-04-16T14:47:00.000Z",
+    "timestamp": "2018-04-16T16:29:46.000Z",
     "type": "message",
     "channelId": "chatdown"
   },
@@ -93,17 +93,17 @@
     "conversation": {
       "id": "1"
     },
-    "id": "1d9aec65-9c2d-4c53-9c6d-ad1547ff6734",
+    "id": "04a63432-3746-4c25-8c83-af141c9e0d5e",
     "recipient": {
-      "id": "a42108e5-2d5b-315f-9064-006aac9d16b8",
+      "id": "0fc1f913-70ce-3250-a784-3949f6460b30",
       "name": "vishwac"
     },
     "from": {
-      "id": "048d1c6c-828c-3906-91a8-223bec3260d2",
+      "id": "af52cf7a-ad9d-3f78-a45d-f625da63a6df",
       "name": "cafebot"
     },
     "text": "You bet, we always are. Please visit http://contosocafe.com/careers\n",
-    "timestamp": "2018-04-16T14:47:02.000Z",
+    "timestamp": "2018-04-16T16:29:48.000Z",
     "type": "message",
     "channelId": "chatdown"
   }
