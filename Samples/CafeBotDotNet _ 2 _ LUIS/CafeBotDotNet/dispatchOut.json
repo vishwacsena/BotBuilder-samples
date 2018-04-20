@@ -1,0 +1,26 @@
+{
+  "services": [
+    {
+      "appId": "2f27cd2d-4e0f-4d13-a6c8-8c9830e22ea9",
+      "authoringKey": "be30825b782843dcbbe520ac5338f567",
+      "version": "0.1",
+      "type": "luis",
+      "name": "cafebot",
+      "id": "2f27cd2d-4e0f-4d13-a6c8-8c9830e22ea9"
+    },
+    {
+      "kbid": "3378aa25-93bf-4320-a42e-7731795239cc",
+      "subscriptionKey": "d534abd71a0d438d95d5a001025ee074",
+      "type": "qna",
+      "name": "cafeBot",
+      "id": "3378aa25-93bf-4320-a42e-7731795239cc"
+    }
+  ],
+  "appId": "40307a9f-9c27-4af4-aa7d-0753d1f9a915",
+  "authoringKey": "be30825b782843dcbbe520ac5338f567",
+  "subscriptionKey": "be30825b782843dcbbe520ac5338f567",
+  "version": "Dispatch",
+  "type": "dispatch",
+  "name": "mydemobotDispatch",
+  "id": "40307a9f-9c27-4af4-aa7d-0753d1f9a915"
+}

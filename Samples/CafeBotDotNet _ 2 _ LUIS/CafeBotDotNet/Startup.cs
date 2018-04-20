@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Bot.Builder.Ai.LUIS;
+using Microsoft.Bot.Builder.Ai.QnA;
 using Microsoft.Bot.Builder.BotFramework;
 using Microsoft.Bot.Builder.Integration.AspNet.Core;
 using Microsoft.Cognitive.LUIS;
@@ -31,17 +32,21 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
             services.AddBot<HelloBot>(options =>
             {
                 options.CredentialProvider = new ConfigurationCredentialProvider(Configuration);
-                string luisModelId = "f0fa248b-827f-4b20-bc29-0d1640b4e174";
-                string luisSubscriptionKey = "be30825b782843dcbbe520ac5338f567";
-                Uri luisUri = new Uri("https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/");
-
-                var luisModel = new LuisModel(luisModelId, luisSubscriptionKey, luisUri);
-
                 // If you want to get all intents scorings, add verbose in luisOptions
                 var luisOptions = new LuisRequest { Verbose = true };
+                options.Middleware.Add(new LuisRecognizerMiddleware(
+                    new LuisModel(
+                        "fd66bde5-c875-40e6-960a-910b0f4d9b01", 
+                        "be30825b782843dcbbe520ac5338f567", 
+                        new Uri("https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/")), luisOptions: luisOptions));
 
-                var middleware = options.Middleware;
-                middleware.Add(new LuisRecognizerMiddleware(luisModel, luisOptions: luisOptions));
+                options.Middleware.Add(new QnAMakerMiddleware(
+                                new QnAMakerMiddlewareOptions()
+                                {
+                                    SubscriptionKey = "d534abd71a0d438d95d5a001025ee074",
+                                    KnowledgeBaseId = "16a219d7-5d89-4fcb-b013-ab37a6304a32",
+                                    EndActivityRoutingOnAnswer = true
+                                }));
 
             });
         }

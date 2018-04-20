@@ -1,11 +1,11 @@
 {
-    "name": "My Demo Bot 4201",
+    "name": "mydemobot",
     "description": "",
     "secretKey": "",
     "services": [
         {
             "type": "endpoint",
-            "name": "My Demo Bot 4201",
+            "name": "mydemobot",
             "endpoint": "http://localhost:3978/api/messages",
             "id": "http://localhost:3978/api/messages",
             "appId": "",
@@ -18,6 +18,34 @@
             "appId": "a7e2916e-6b91-4709-b709-e6ba5a991012",
             "appPassword": "&.YjwP@MH!UK#L*k",
             "endpoint": "https://mydemobot4201.azurewebsites.net/api/messages"
+        },
+        {
+            "type": "luis",
+            "name": "cafebot",
+            "id": "2f27cd2d-4e0f-4d13-a6c8-8c9830e22ea9",
+            "appId": "2f27cd2d-4e0f-4d13-a6c8-8c9830e22ea9",
+            "version": "0.1",
+            "authoringKey": "be30825b782843dcbbe520ac5338f567"
+        },
+        {
+            "type": "qna",
+            "name": "cafeBot",
+            "id": "3378aa25-93bf-4320-a42e-7731795239cc",
+            "kbid": "3378aa25-93bf-4320-a42e-7731795239cc",
+            "subscriptionKey": "d534abd71a0d438d95d5a001025ee074"
+        },
+        {
+            "type": "dispatch",
+            "name": "mydemobotDispatch",
+            "id": "40307a9f-9c27-4af4-aa7d-0753d1f9a915",
+            "appId": "40307a9f-9c27-4af4-aa7d-0753d1f9a915",
+            "version": "Dispatch",
+            "subscriptionKey": "be30825b782843dcbbe520ac5338f567",
+            "authoringKey": "be30825b782843dcbbe520ac5338f567",
+            "serviceIds": [
+                "2f27cd2d-4e0f-4d13-a6c8-8c9830e22ea9",
+                "3378aa25-93bf-4320-a42e-7731795239cc"
+            ]
         }
     ]
 }

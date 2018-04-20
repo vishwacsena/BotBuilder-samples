@@ -3,19 +3,19 @@
     "conversation": {
       "id": "1"
     },
-    "id": "368d23d2-4512-4cd7-ba17-d7717e12c7c2",
+    "id": "cb57d096-5136-4954-9321-595c1ac94809",
     "recipient": {
-      "id": "b8114c09-0c7a-3c33-a759-36511c9c57a4",
+      "id": "05d68890-7f55-300a-b461-8612bcb7d59a",
       "name": "cafebot",
       "role": "bot"
     },
     "from": {
-      "id": "ed0a07af-537c-39be-b11a-1b0b51fd1a3f",
+      "id": "66f8be13-9911-3104-93d5-efe77fc1f5be",
       "name": "vishwac",
       "role": "user"
     },
     "text": "hi",
-    "timestamp": "2018-04-20T19:29:57.000Z",
+    "timestamp": "2018-04-20T21:40:06.000Z",
     "type": "message",
     "channelId": "chatdown"
   },
@@ -23,19 +23,19 @@
     "conversation": {
       "id": "1"
     },
-    "id": "f3712475-b24d-4e0f-a799-5db248e82ff9",
+    "id": "83be9363-d954-49b4-bd2e-1348a9ec1ff2",
     "recipient": {
-      "id": "ed0a07af-537c-39be-b11a-1b0b51fd1a3f",
+      "id": "66f8be13-9911-3104-93d5-efe77fc1f5be",
       "name": "vishwac",
       "role": "user"
     },
     "from": {
-      "id": "b8114c09-0c7a-3c33-a759-36511c9c57a4",
+      "id": "05d68890-7f55-300a-b461-8612bcb7d59a",
       "name": "cafebot",
       "role": "bot"
     },
     "text": "Hello, I'm the contoso cafe bot. How can I help you?\n",
-    "timestamp": "2018-04-20T19:29:59.000Z",
+    "timestamp": "2018-04-20T21:40:08.000Z",
     "type": "message",
     "channelId": "chatdown"
   }

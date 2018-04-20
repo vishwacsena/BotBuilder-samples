@@ -28,7 +28,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                                 await context.SendActivity($"Hello, I'm the contoso cafe bot. How can I help you?");
                                 break;
                             default:
-                                await context.SendActivity($"Hello world.");
+                                await context.SendActivity($"Sorry, I do not understand that.");
                                 break;
                         }
                     }
