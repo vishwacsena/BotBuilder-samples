@@ -1,0 +1,15 @@
+{
+    "name": "Mockups",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "da7ed5f0-43e4-11e8-aad5-7fed18f5ddd2",
+            "name": "http://localhost:3978/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Transcripts",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "023a7f40-43e5-11e8-a889-13ab4408f0b8",
+            "name": "http://localhost:3978/api/messages",
+            "type": "endpoint"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "0b5a0bf6-8639-4704-b293-5946cab606a2",
+    "recipient": {
+      "id": "86fad9be-2754-3585-b4fe-63b4ea25831f",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "3c60e108-9d04-3dc0-8b69-4709cad59302",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "text": "I prefer to receive phone calls",
+    "timestamp": "2018-04-20T19:33:33.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "11a71212-0739-4e7d-8d95-7b0c09af5c2f",
+    "recipient": {
+      "id": "3c60e108-9d04-3dc0-8b69-4709cad59302",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "86fad9be-2754-3585-b4fe-63b4ea25831f",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "Ok, I'll remember that.\n",
+    "timestamp": "2018-04-20T19:33:35.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

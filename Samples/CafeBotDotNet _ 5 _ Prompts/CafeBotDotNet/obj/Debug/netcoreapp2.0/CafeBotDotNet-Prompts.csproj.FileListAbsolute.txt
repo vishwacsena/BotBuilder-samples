@@ -8,3 +8,4 @@ C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\ob
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.AssemblyInfo.cs
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.dll
 C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.pdb
+C:\repos\BotBuilder-samples\Samples\CafeBotDotNet _ 5 _ Prompts\CafeBotDotNet\obj\Debug\netcoreapp2.0\CafeBotDotNet-Prompts.csprojResolveAssemblyReference.cache

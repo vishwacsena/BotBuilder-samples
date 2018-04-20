@@ -1,9 +1,2 @@
-{
-  "versionId": "1",
-  "isStaging": false,
-  "endpointUrl": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/fe2093f5-70ea-45f1-a81b-e178de40ab90",
-  "region": "westus",
-  "assignedEndpointKey": null,
-  "endpointRegion": "westus",
-  "publishedDateTime": "2018-04-16T14:56:23Z"
-}
+
+FetchError: invalid json response body at https://westus.api.cognitive.microsoft.com/luis/api/v2.0/apps/Error:/publish reason: Unexpected token < in JSON at position 0

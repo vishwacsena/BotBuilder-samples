@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body style="font-family:'Segoe UI'">
+    <h1>QnABot1</h1>
+    <p>This is a QnA Maker Bot Sample created using Microsoft Bot Framework.</p>
+    <p><a href="https://azuredeploy.net"><img title="" alt="Deploy to Azure" src="https://azuredeploy.net/deploybutton.png"></a></p>
+    <p> QnA Maker Dialog is to simplify the bot development using <a href="https://qnamaker.ai/">QnA Maker</a> knowledge bases. The bot can consume the QnA Maker dialog as shown in the example to forward the conversation to QnA Maker service and post the answer to the user in a seamless way. The package contains QnAMakerService that allows interation with QnA Maker knowledge bases. This service along with the QnA Maker dialog or scorable are useful for building QnA bots in few minutes. </p>
+    <h3 id="prerequisites">Prerequisites</h3>
+    <p>
+        The minimum prerequisites to run this sample are: <br>
+        <ul>
+            <li>The latest update of <b>Visual Studio 2015, 2017</b>. You can download the community version <a href="http://www.visualstudio.com">here</a> for free.</li>
+            <li>
+                The <a href="file:///C:\Users\%USERPROFILE%\AppData\Local\botframework\app-3.5.29\botframework-emulator.exe">Bot Framework Emulator</a>. To install the Bot Framework Emulator, download it from <a href="https://emulator.botframework.com/">here</a>.
+                Once the emulator has been installed you can debug your sample by folowing the steps provided in <a href="https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator">this</a> document.
+                Please refer to <a href="https://github.com/microsoft/botframework-emulator/wiki/Getting-Started">this documentation article</a> to know more about the Bot Framework Emulator.
+            </li>
+        </ul>
+    </p>
+    <a href="https://github.com/Microsoft/BotBuilder-CognitiveServices/tree/master/CSharp/Samples/QnAMaker/SimpleQnABot">SimpleQnABot</a> demonstrates a simple QnA bot where the bot responds with the top answer above specified threshold. One just needs to add the knowledge base id and the subscription key in the Web.config file as shown below. <br>
+        <code>
+            <br>
+                &lt;appSettings&gt; <br />
+                    ...<br />
+                    &lt;add key="QnASubscriptionKey" value="" /&gt; <br />
+                    &lt;add key="QnAKbId" value="" /&gt; <br />
+                &lt;/appSettings&gt; <br />
+        </code> <br>
+        And then forward the call from the MessagesController: <br>
+        <code>
+            <br>
+            public async Task&lt;HttpResponseMessage&gt; Post([FromBody]Activity activity) <br>
+            { <br>
+            if (activity.Type == ActivityTypes.Message) <br>
+            { <br>
+            await Conversation.SendAsync(activity, () =&gt; new Dialogs.SimpleQnADialog()); <br>
+            } <br>
+            ... <br>
+            ... <br>
+            } <br>
+        </code>
+    </p>
+    <p>For more information you can visit the GitHub repository of the sample <a href="https://github.com/Microsoft/BotBuilder-CognitiveServices/tree/master/CSharp/Samples/QnAMaker">here</a></p>
+</body>
+</html>

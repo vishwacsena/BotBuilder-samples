@@ -29,7 +29,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                                 break;
                             case "Communication preference":
                                 // get entities
-                                if (luisResult.Entities.Count > 0)
+                                /*if (luisResult.Entities.Count > 0)
                                 {
                                     JToken commPreference;
                                     if (luisResult.Entities.TryGetValue("communicationOption", out commPreference))
@@ -51,7 +51,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                                     }
 
                                 }
-                                break;
+                                break;*/
                             default:
                                 await context.SendActivity($"Hello world.");
                                 break;

@@ -1,0 +1,477 @@
+[
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "c43d0067-2e20-4b42-bf5a-53f085eb9ad0",
+    "recipient": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "text": "book a table",
+    "timestamp": "2018-04-20T19:32:21.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "1cb2d34e-5960-470b-8245-79ed21040910",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "Did you have a location in mind?",
+    "timestamp": "2018-04-20T19:32:23.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "attachments": [
+      {
+        "contentType": "application/vnd.microsoft.card.adaptive",
+        "content": {
+          "$schema": "https://microsoft.github.io/AdaptiveCards/schemas/adaptive-card.json",
+          "type": "AdaptiveCard",
+          "version": "1.0",
+          "body": [
+            {
+              "speak": "<s>Serious Pie is a Pizza restaurant which is rated 9.3 by customers.</s>",
+              "type": "ColumnSet",
+              "columns": [
+                {
+                  "type": "Column",
+                  "size": "2",
+                  "items": [
+                    {
+                      "type": "TextBlock",
+                      "text": "Contoso Cafe",
+                      "weight": "bolder",
+                      "size": "extraLarge"
+                    }
+                  ]
+                },
+                {
+                  "type": "Column",
+                  "size": "1",
+                  "items": [
+                    {
+                      "type": "Image",
+                      "url": "http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/simple-red-glossy-icons-food-beverage/058608-simple-red-glossy-icon-food-beverage-coffee-tea.png",
+                      "size": "auto"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextBlock",
+              "text": "What city:"
+            },
+            {
+              "type": "Input.ChoiceSet",
+              "id": "cafeLocation",
+              "style": "compact",
+              "isMultiSelect": false,
+              "choices": [
+                {
+                  "title": "Seattle",
+                  "value": "seattle",
+                  "isSelected": true
+                },
+                {
+                  "title": "Redmond",
+                  "value": "redmond"
+                },
+                {
+                  "title": "Renton",
+                  "value": "renton"
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": "Action.Submit",
+              "title": "Ok"
+            }
+          ]
+        }
+      }
+    ],
+    "conversation": {
+      "id": "1"
+    },
+    "id": "17ab11c6-0151-4baa-8b95-e83072ffda38",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": null,
+    "timestamp": "2018-04-20T19:32:27.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "3d751876-aa3d-4a2c-b63c-036df76b9677",
+    "recipient": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "text": "How about seattle?",
+    "timestamp": "2018-04-20T19:32:29.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "ce876006-f709-40a1-b7d5-635322336d93",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "Did you have a date in mind?",
+    "timestamp": "2018-04-20T19:32:31.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "0fc61f46-def9-4f9d-9a5e-2d5727fd1e9d",
+    "recipient": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "text": "tomorrow",
+    "timestamp": "2018-04-20T19:32:33.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "631f99a1-ce6a-43dd-b830-beb7608b8d39",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "What time?",
+    "timestamp": "2018-04-20T19:32:35.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "88226148-7fd2-4101-b404-455d88fff563",
+    "recipient": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "text": "3PM",
+    "timestamp": "2018-04-20T19:32:37.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "71ce0bce-9a21-4237-ae9e-9ccf9b9c8187",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "How many guests?",
+    "timestamp": "2018-04-20T19:32:39.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "710e0417-de7b-4b06-8ff0-4eb9da019050",
+    "recipient": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "text": "3",
+    "timestamp": "2018-04-20T19:32:41.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "e3b59a34-0262-4e29-be46-7343f0628630",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "Ok. Should I go ahead and book a table for 3 at seattle for tomorrow at 3PM?",
+    "timestamp": "2018-04-20T19:32:43.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "attachments": [
+      {
+        "contentType": "application/vnd.microsoft.card.adaptive",
+        "content": {
+          "$schema": "https://microsoft.github.io/AdaptiveCards/schemas/adaptive-card.json",
+          "type": "AdaptiveCard",
+          "version": "1.0",
+          "body": [
+            {
+              "speak": "<s>Serious Pie is a Pizza restaurant which is rated 9.3 by customers.</s>",
+              "type": "ColumnSet",
+              "columns": [
+                {
+                  "type": "Column",
+                  "size": "2",
+                  "items": [
+                    {
+                      "type": "TextBlock",
+                      "text": "Contoso Cafe",
+                      "weight": "bolder",
+                      "size": "extraLarge"
+                    },
+                    {
+                      "type": "TextBlock",
+                      "text": "Book a table",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "Column",
+                  "size": "1",
+                  "items": [
+                    {
+                      "type": "Image",
+                      "url": "http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/simple-red-glossy-icons-food-beverage/058608-simple-red-glossy-icon-food-beverage-coffee-tea.png",
+                      "size": "auto"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextBlock",
+              "text": "Location:"
+            },
+            {
+              "type": "Input.Text",
+              "value": "Seattle",
+              "style": "text",
+              "maxLength": 0,
+              "id": "cafeLocation",
+              "speak": "Select a Location"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Event date:"
+            },
+            {
+              "type": "Input.Text",
+              "value": "Tomorrow",
+              "id": "builtin.datetime.date",
+              "speak": "What event time?"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Event time:"
+            },
+            {
+              "type": "Input.Text",
+              "value": "3PM",
+              "id": "builtin.datetime.time",
+              "speak": "What event time?"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Party size:"
+            },
+            {
+              "type": "Input.Text",
+              "value": "3",
+              "id": "partySize",
+              "speak": "What time to start?"
+            }
+          ],
+          "actions": [
+            {
+              "type": "Action.Submit",
+              "title": "Book it",
+              "data": {
+                "confirmationList": "yes"
+              }
+            },
+            {
+              "type": "Action.Http",
+              "method": "POST",
+              "title": "Book on opentable",
+              "url": "www.opentable.com/"
+            }
+          ]
+        }
+      }
+    ],
+    "conversation": {
+      "id": "1"
+    },
+    "id": "273ee903-77ad-40e9-bb48-8effa6759e83",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": null,
+    "timestamp": "2018-04-20T19:32:47.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "c21c775a-11f0-42bf-b5be-8bd4a61eee33",
+    "recipient": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "text": "yes",
+    "timestamp": "2018-04-20T19:32:49.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "df4114d1-c1f1-45a6-887a-693d7d03e670",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "",
+    "timestamp": "2018-04-20T19:32:56.000Z",
+    "type": "typing",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "4da4f628-d8a1-460f-bebd-230409975b3a",
+    "recipient": {
+      "id": "c7b1d56f-b636-3ee8-88f8-789457343378",
+      "name": "vishwac",
+      "role": "user"
+    },
+    "from": {
+      "id": "1e0d28ee-998a-3b68-8e0d-75c1b9199d23",
+      "name": "cafebot",
+      "role": "bot"
+    },
+    "text": "Your table is booked. Reference number: #K89HG38SZ\n",
+    "timestamp": "2018-04-20T19:32:51.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

@@ -6,9 +6,9 @@
         {
             "appId": "",
             "appPassword": "",
-            "endpoint": "http://localhost:3988/api/messages",
-            "id": "2c1f63a0-4194-11e8-acde-17ededee9d25",
-            "name": "http://localhost:3988/api/messages",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "c0913e10-4332-11e8-a4e9-9d61f5fb399a",
+            "name": "http://localhost:3978/api/messages",
             "type": "endpoint"
         }
     ]

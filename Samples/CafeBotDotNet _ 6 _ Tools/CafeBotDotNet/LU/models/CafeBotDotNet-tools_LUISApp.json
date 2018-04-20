@@ -5,40 +5,11 @@
     },
     {
       "name": "Who are you intent"
-    },
-    {
-      "name": "Communication preference"
     }
   ],
   "entities": [],
   "composites": [],
-  "closedLists": [
-    {
-      "name": "communicationOption",
-      "subLists": [
-        {
-          "canonicalForm": "call",
-          "list": [
-            "phone call",
-            "give me a ring",
-            "ring",
-            "call"
-          ]
-        },
-        {
-          "canonicalForm": "text",
-          "list": [
-            "message",
-            "text",
-            "text message",
-            "sms",
-            "fax"
-          ]
-        }
-      ],
-      "roles": []
-    }
-  ],
+  "closedLists": [],
   "bing_entities": [],
   "model_features": [],
   "regex_features": [],
@@ -87,33 +58,13 @@
       "text": "What's your name?",
       "intent": "Who are you intent",
       "entities": []
-    },
-    {
-      "text": "I prefer to get text updates",
-      "intent": "Communication preference",
-      "entities": []
-    },
-    {
-      "text": "send me a text message to get in touch with me",
-      "intent": "Communication preference",
-      "entities": []
-    },
-    {
-      "text": "set my communication preference to phone call",
-      "intent": "Communication preference",
-      "entities": []
-    },
-    {
-      "text": "I prefer to receive phone call",
-      "intent": "Communication preference",
-      "entities": []
     }
   ],
   "patterns": [],
   "patternAnyEntities": [],
   "prebuiltEntities": [],
   "luis_schema_version": "2.1.0",
-  "versionId": "6",
+  "versionId": "2",
   "name": "CafeBotDotNet-tools",
   "desc": "",
   "culture": "en-us"

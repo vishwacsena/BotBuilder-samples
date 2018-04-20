@@ -1,0 +1,23 @@
+{
+    "name": "My Demo Bot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "My Demo Bot",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": ""
+        },
+        {
+            "type": "abs",
+            "id": "/subscriptions/728a1c0d-2490-4954-b05b-2464ec44de28/resourceGroups/vkTestRG/providers/Microsoft.BotService/botServices/mydemobot4201",
+            "name": "mydemobot4201",
+            "appId": "a7e2916e-6b91-4709-b709-e6ba5a991012",
+            "appPassword": "&.YjwP@MH!UK#L*k",
+            "endpoint": "https://mydemobot4201.azurewebsites.net/api/messages"
+        }
+    ]
+}
