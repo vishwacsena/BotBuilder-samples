@@ -18,7 +18,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                     }
                     else
                     {
-                        await context.SendActivity($"Hello world.");
+                        await context.SendActivity($"Sorry, I do not understand that");
                     }
                     break;
                 case ActivityTypes.ConversationUpdate:
