@@ -6,6 +6,7 @@ using System;
 using System.Threading;
 using System.Collections.Generic;
 using Newtonsoft.Json.Linq;
+using Microsoft.Bot.Builder.Core.Extensions;
 
 namespace Microsoft.Bot.Samples.CafeBotDotNet
 {
