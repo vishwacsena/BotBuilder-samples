@@ -1,34 +1,36 @@
 {
   "qnaPairs": [
     {
-      "answer": "\r\nWe have Cafe locations in Redmond, Seattle, Renton and Bellevue",
+      "answer": "We have Cafe locations in Redmond, Seattle, Renton and Bellevue\r\n",
       "question": "What are your locations"
     },
     {
-      "answer": "\r\nJoshua Newmann is the CEO of Contoso Cafe",
+      "answer": "Joshua Newmann is the CEO of Contoso Cafe\r\n",
       "question": "who is your CEO"
     },
     {
-      "answer": "\r\nJoshua Newmann is the CEO of Contoso Cafe",
+      "answer": "Joshua Newmann is the CEO of Contoso Cafe\r\n",
       "question": "who owns contoso cafe"
     },
     {
-      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "answer": "You bet, we always are. Please visit http://contosocafe.com/careers\r\n",
       "question": "Are you hiring"
     },
     {
-      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "answer": "You bet, we always are. Please visit http://contosocafe.com/careers\r\n",
       "question": "Do you have job openings?"
     },
     {
-      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "answer": "You bet, we always are. Please visit http://contosocafe.com/careers\r\n",
       "question": "are you looking for a barrista"
     },
     {
-      "answer": "\r\nYou bet, we always are. Please visit http://contosocafe.com/careers",
+      "answer": "You bet, we always are. Please visit http://contosocafe.com/careers\r\n",
       "question": "can i come work for contoso cafe?"
     }
   ],
-  "urls": [],
+  "urls": [
+    "https://docs.microsoft.com/en-in/azure/cognitive-services/qnamaker/faqs"
+  ],
   "name": "cafebotQnA420demo"
 }

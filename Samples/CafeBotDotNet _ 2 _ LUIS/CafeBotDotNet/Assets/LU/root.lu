@@ -1,7 +1,65 @@
 ﻿
-// references to other lu files
+> # Intent definitions
 
-#ref('Greeting.lu')
-#ref('CommPreference.lu')
-#ref('WhoAreYou.lu')
-#ref('QnA.lu')
+## Greeting
+- Hello
+- Hi
+- Hello bot
+- hiya
+- hi bot
+
+## Who are you intent
+- Who are you?
+- What is your name?
+- how should I address you? 
+- What's your name?
+
+## Communication preference
+- I prefer to get text updates
+- send me a text message to get in touch with me
+- set my communication preference to phone call
+- I prefer to receive phone call
+
+> # QnA pairs
+
+## ? What are your locations
+```markdown
+We have Cafe locations in Redmond, Seattle, Renton and Bellevue
+```
+
+## ? who is your CEO
+- who owns contoso cafe
+```markdown
+Joshua Newmann is the CEO of Contoso Cafe
+```
+
+## ? Are you hiring
+- Do you have job openings?
+- are you looking for a barrista
+- can i come work for contoso cafe?
+```markdown
+You bet, we always are. Please visit http://contosocafe.com/careers
+```
+
+> # Entity definitions
+
+$ communicationOption:call=
+- phone call
+- give me a ring
+- ring
+- call
+
+$ communicationOption:text=
+- message
+- text
+- text message
+
+> # Links to other lu files
+
+[None intent](./none.lu)
+
+[Greeting intent](./Greeting.lu)
+
+> # Links to FAQs
+
+[QnA URL - faqs](https://docs.microsoft.com/en-in/azure/cognitive-services/qnamaker/faqs)

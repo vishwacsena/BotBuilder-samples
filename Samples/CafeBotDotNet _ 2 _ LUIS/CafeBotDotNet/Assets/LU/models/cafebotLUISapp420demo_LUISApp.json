@@ -4,10 +4,13 @@
       "name": "Greeting"
     },
     {
+      "name": "Who are you intent"
+    },
+    {
       "name": "Communication preference"
     },
     {
-      "name": "Who are you intent"
+      "name": "None"
     }
   ],
   "entities": [],
@@ -67,6 +70,26 @@
       "entities": []
     },
     {
+      "text": "Who are you?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
+      "text": "What is your name?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
+      "text": "how should I address you?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
+      "text": "What's your name?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
       "text": "I prefer to get text updates",
       "intent": "Communication preference",
       "entities": []
@@ -87,23 +110,33 @@
       "entities": []
     },
     {
-      "text": "Who are you?",
-      "intent": "Who are you intent",
+      "text": "Who is your ceo?",
+      "intent": "None",
       "entities": []
     },
     {
-      "text": "What is your name?",
-      "intent": "Who are you intent",
+      "text": "Hello",
+      "intent": "Greeting",
       "entities": []
     },
     {
-      "text": "how should I address you?",
-      "intent": "Who are you intent",
+      "text": "Hi",
+      "intent": "Greeting",
       "entities": []
     },
     {
-      "text": "What's your name?",
-      "intent": "Who are you intent",
+      "text": "Hello bot",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hi bot",
+      "intent": "Greeting",
       "entities": []
     }
   ],
