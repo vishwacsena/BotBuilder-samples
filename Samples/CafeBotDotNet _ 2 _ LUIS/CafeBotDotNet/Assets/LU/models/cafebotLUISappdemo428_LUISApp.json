@@ -1,0 +1,151 @@
+{
+  "intents": [
+    {
+      "name": "Greeting"
+    },
+    {
+      "name": "Who are you intent"
+    },
+    {
+      "name": "Communication preference"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": " communicationOption",
+      "subLists": [
+        {
+          "canonicalForm": "call",
+          "list": [
+            "phone call",
+            "give me a ring",
+            "ring",
+            "call"
+          ]
+        },
+        {
+          "canonicalForm": "text",
+          "list": [
+            "message",
+            "text",
+            "text message"
+          ]
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "bing_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "Hello",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello bot",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hi bot",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Who are you?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
+      "text": "What is your name?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
+      "text": "how should I address you?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
+      "text": "What's your name?",
+      "intent": "Who are you intent",
+      "entities": []
+    },
+    {
+      "text": "I prefer to get text updates",
+      "intent": "Communication preference",
+      "entities": []
+    },
+    {
+      "text": "send me a text message to get in touch with me",
+      "intent": "Communication preference",
+      "entities": []
+    },
+    {
+      "text": "set my communication preference to phone call",
+      "intent": "Communication preference",
+      "entities": []
+    },
+    {
+      "text": "I prefer to receive phone call",
+      "intent": "Communication preference",
+      "entities": []
+    },
+    {
+      "text": "Who is your ceo?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Hello",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hi",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "Hello bot",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hi bot",
+      "intent": "Greeting",
+      "entities": []
+    }
+  ],
+  "patterns": [],
+  "patternAnyEntities": [],
+  "prebuiltEntities": [],
+  "luis_schema_version": "2.2.0",
+  "versionId": "0.1",
+  "name": "cafebotLUISappdemo428",
+  "desc": "",
+  "culture": "en-us"
+}

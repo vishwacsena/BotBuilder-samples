@@ -13,17 +13,17 @@
         },
         {
             "type": "luis",
-            "name": "cafebotLUISapp420demo",
-            "id": "0f87b39a-06c2-482b-852b-aa58b34be656",
-            "appId": "0f87b39a-06c2-482b-852b-aa58b34be656",
+            "name": "cafebot (2)",
+            "id": "b5622c6d-fa42-47b6-b1b3-be4dd3293dfa",
+            "appId": "b5622c6d-fa42-47b6-b1b3-be4dd3293dfa",
             "subscriptionKey": "be30825b782843dcbbe520ac5338f567",
             "authoringKey": "be30825b782843dcbbe520ac5338f567"
         },
         {
             "type": "qna",
             "name": "QnA KB",
-            "id": "464a8f23-79e9-4e46-bb3c-58023776d5f5",
-            "kbid": "464a8f23-79e9-4e46-bb3c-58023776d5f5",
+            "id": "98762b9c-73f9-457a-8f91-1bf765c9a95a",
+            "kbid": "98762b9c-73f9-457a-8f91-1bf765c9a95a",
             "subscriptionKey": "d534abd71a0d438d95d5a001025ee074"
         }
     ]

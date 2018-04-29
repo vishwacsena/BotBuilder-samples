@@ -21,8 +21,11 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
                 .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
+                .AddJsonFile("cafebot.bot")
                 .AddEnvironmentVariables();
             Configuration = builder.Build();
+            var p = Configuration["services:1:appId"];
+            Console.WriteLine($"option1 = {Configuration["name"]}");
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.
@@ -36,7 +39,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                 var luisOptions = new LuisRequest { Verbose = true };
                 options.Middleware.Add(new LuisRecognizerMiddleware(
                     new LuisModel(
-                        "fd66bde5-c875-40e6-960a-910b0f4d9b01", 
+                        "586c6eba-c656-4a86-adc5-b963769bbaed", 
                         "be30825b782843dcbbe520ac5338f567", 
                         new Uri("https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/")), luisOptions: luisOptions));
 
@@ -44,7 +47,7 @@ namespace Microsoft.Bot.Samples.CafeBotDotNet
                                 new QnAMakerMiddlewareOptions()
                                 {
                                     SubscriptionKey = "d534abd71a0d438d95d5a001025ee074",
-                                    KnowledgeBaseId = "16a219d7-5d89-4fcb-b013-ab37a6304a32",
+                                    KnowledgeBaseId = "40080f40-0200-482e-8e55-fae74d973490",
                                     EndActivityRoutingOnAnswer = true
                                 }));
 

@@ -1,0 +1,16 @@
+
+  Usage: msbot connect azure [options]
+
+  Connect the bot to Azure Bot Service
+
+  Options:
+
+    -i, --id <id>         Azure Bot Service bot id
+    -a, --appId  <appid>  Microsoft AppId for the Azure Bot Service
+    
+    -n, --name <name>     (OPTIONAL) name of the azure bot service
+    -b, --bot <path>      path to bot file.  If omitted, local folder will look for a .bot file
+    --input <jsonfile>    path to arguments in JSON format { id:'',name:'', ... }
+    --secret <secret>     bot file secret password for encrypting service secrets
+    --stdin               arguments are passed in as JSON object via stdin
+    -h, --help            output usage information

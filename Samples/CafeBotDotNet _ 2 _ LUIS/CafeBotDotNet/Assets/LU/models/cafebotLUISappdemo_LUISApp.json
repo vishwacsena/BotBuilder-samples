@@ -143,9 +143,9 @@
   "patterns": [],
   "patternAnyEntities": [],
   "prebuiltEntities": [],
-  "luis_schema_version": "2.1.0",
+  "luis_schema_version": "2.2.0",
   "versionId": "0.1",
-  "name": "cafebotLUISapp420demo",
+  "name": "cafebotLUISappdemo",
   "desc": "",
   "culture": "en-us"
 }

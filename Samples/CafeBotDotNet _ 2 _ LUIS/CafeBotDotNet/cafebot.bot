@@ -12,19 +12,34 @@
             "appPassword": ""
         },
         {
+            "id": "89b34875-f377-4596-b1d2-a8df73820185",
             "type": "luis",
-            "name": "cafebotLUISapp420demo",
-            "id": "0f87b39a-06c2-482b-852b-aa58b34be656",
-            "appId": "0f87b39a-06c2-482b-852b-aa58b34be656",
-            "subscriptionKey": "be30825b782843dcbbe520ac5338f567",
-            "authoringKey": "be30825b782843dcbbe520ac5338f567"
+            "name": "cafebotLUISappdemo428",
+            "version": "0.1",
+            "appId": "89b34875-f377-4596-b1d2-a8df73820185",
+            "authoringKey": "be30825b782843dcbbe520ac5338f567",
+            "subscriptionKey": "be30825b782843dcbbe520ac5338f567"
         },
         {
+            "kbId": "2370bda5-36f0-4179-bdd8-956ca3079b56",
+            "name": "cafebotQnAappdemo428",
             "type": "qna",
-            "name": "QnA KB",
-            "id": "464a8f23-79e9-4e46-bb3c-58023776d5f5",
-            "kbid": "464a8f23-79e9-4e46-bb3c-58023776d5f5",
-            "subscriptionKey": "d534abd71a0d438d95d5a001025ee074"
+            "subscriptionKey": "6568dd1ce0cb479a8b7e948a77800a46",
+            "id": "2370bda5-36f0-4179-bdd8-956ca3079b56",
+            "endpointKey": "26415bc9-a476-4c10-8360-d66149d35f68",
+            "hostname": "https://vkqnamaker.azurewebsites.net"
+        },
+        {
+            "type": "azure",
+            "name": "mydemobot4201",
+            "appId": "a7e2916e-6b91-4709-b709-e6ba5a991012",
+            "id": "/subscriptions/728a1c0d-2490-4954-b05b-2464ec44de28/resourceGroups/vkTestRG/providers/Microsoft.BotService/botServices/mydemobot4201"
+        },
+        {
+            "appId": "mydemobot4201",
+            "id": "/subscriptions/728a1c0d-2490-4954-b05b-2464ec44de28/resourceGroups/vkTestRG/providers/Microsoft.BotService/botServices/mydemobot4201",
+            "name": "foo",
+            "type": "abs"
         }
     ]
 }
