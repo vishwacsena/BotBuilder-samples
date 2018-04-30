@@ -24,8 +24,8 @@
             "kbId": "2370bda5-36f0-4179-bdd8-956ca3079b56",
             "name": "cafebotQnAappdemo428",
             "type": "qna",
-            "subscriptionKey": "6568dd1ce0cb479a8b7e948a77800a46",
-            "id": "2370bda5-36f0-4179-bdd8-956ca3079b56",
+            "subscriptionKey": "d534abd71a0d438d95d5a001025ee074",
+            "id": "40080f40-0200-482e-8e55-fae74d973490",
             "endpointKey": "26415bc9-a476-4c10-8360-d66149d35f68",
             "hostname": "https://vkqnamaker.azurewebsites.net"
         },
@@ -40,6 +40,22 @@
             "id": "/subscriptions/728a1c0d-2490-4954-b05b-2464ec44de28/resourceGroups/vkTestRG/providers/Microsoft.BotService/botServices/mydemobot4201",
             "name": "foo",
             "type": "abs"
+        },
+        {
+            "type": "abs",
+            "name": "contosocafebuild2018demo",
+            "id": "contosocafebuild2018demo",
+            "tenantId": "44bd8c0c-5de3-47e3-a011-d125c70aab59",
+            "subscriptionId": "087822e7-ec21-4d3b-8ad4-92da1098178c",
+            "resourceGroup": "2018BuildDemo"
+        },
+        {
+            "appId": "d46d9287-3672-4ffe-8b9e-477d53c2ce7a",
+            "id": "https://contosocafebuild2018demo.azurewebsites.net/api/messages",
+            "type": "endpoint",
+            "appPassword": "(F%LsNDyVvEz>Jq3",
+            "endpoint": "https://contosocafebuild2018demo.azurewebsites.net/api/messages",
+            "name": "contosocafebuild2018demo (2)"
         }
     ]
 }

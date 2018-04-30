@@ -12832,9 +12832,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\repos\\BotBuilder-samples\\Samples\\CafeBotDotNet _ 2 _ LUIS\\CafeBotDotNet\\CafeBotDotNet-LUIS.csproj",
       "projectName": "CafeBotDotNet-LUIS",
@@ -12853,7 +12850,7 @@
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\repos\\v4sdk\\localNuPKg": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
